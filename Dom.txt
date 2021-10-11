@@ -1,0 +1,3 @@
+Dom Document Object Model 
+Dom คือ interface หรือ api ที่ช่วยให้เราจัดการ
+html/xml ได้ง่ายขึ้นโดยใช้รูปแบบของต้นไม้ (tree)
